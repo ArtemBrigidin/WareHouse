@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warehouse", "warehouse\warehouse.csproj", "{0D9E5BB0-40F0-4FE8-B80A-BA21A79795FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{A371A9D2-7CDF-4EC0-9DAC-4E0E02B6041D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tovar", "tovar\tovar.csproj", "{C82A4F99-2429-450C-8B46-54509F2B78BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D9E5BB0-40F0-4FE8-B80A-BA21A79795FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9E5BB0-40F0-4FE8-B80A-BA21A79795FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9E5BB0-40F0-4FE8-B80A-BA21A79795FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9E5BB0-40F0-4FE8-B80A-BA21A79795FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A371A9D2-7CDF-4EC0-9DAC-4E0E02B6041D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A371A9D2-7CDF-4EC0-9DAC-4E0E02B6041D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A371A9D2-7CDF-4EC0-9DAC-4E0E02B6041D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A371A9D2-7CDF-4EC0-9DAC-4E0E02B6041D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82A4F99-2429-450C-8B46-54509F2B78BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82A4F99-2429-450C-8B46-54509F2B78BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82A4F99-2429-450C-8B46-54509F2B78BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82A4F99-2429-450C-8B46-54509F2B78BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E29F90-F47C-4B95-8D22-9666BCA32EC1}
+	EndGlobalSection
+EndGlobal
